@@ -1,0 +1,16 @@
+The Command Line 常用命令列指令
+
+pwd   顯示當前所在目錄
+ls    列出清單 list
+cd    切換目錄   "change directory"
+                 切換目錄到上一層  cd .. 
+				 切換目錄到上2層  cd ../..
+mkdir 新建目錄   "make directory"
+touch -windows沒有內建這個指令，可以用 New-Item 建立新檔案
+cp    複製檔案 copy
+rm    刪掉檔案 remove
+vim   文字編輯-windows沒有內建
+tar   壓縮指令-windows沒有內建 冏冏冏冏
+man   說明文件
+
+man   教學說明
